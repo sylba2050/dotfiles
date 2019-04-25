@@ -1,0 +1,38 @@
+abbr ..='cd ..'
+abbr ...='cd ../..'
+abbr ....='cd ../../..'
+
+abbr la='ls -A'
+abbr s='ls'
+abbr sl='ls'
+abbr l='ls'
+
+abbr g='git'
+abbr ga='git add'
+abbr gau='git add -u'
+abbr gf='git diff'
+abbr gs='git status'
+abbr gp='git push'
+abbr gpull='git pull'
+abbr gc='git commit'
+
+abbr vimrc='vim ~/.vimrc'
+
+abbr sa='sudo apt'
+
+abbr cp='cp -i'
+abbr mv='mv -i'
+abbr rm='rm -i'
+abbr cpf='cp'
+abbr mvf='mv'
+abbr rmf='rm'
+
+abbr t='tmux attach'
+abbr v='vim'
+
+abbr c='clear'
+
+abbr du='du -h --max-depth  1'
+abbr df='df -h'
+
+abbr m='mkdir -p'
