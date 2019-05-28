@@ -15,6 +15,7 @@ abbr gs='git status'
 abbr gp='git push'
 abbr gpull='git pull'
 abbr gc='git commit'
+abbr gche='git checkout'
 
 abbr vimrc='vim ~/.vimrc'
 
