@@ -30,7 +30,8 @@ abbr mvf 'mv'
 abbr rmf 'rm'
 
 abbr t 'tmux attach'
-abbr v 'vim'
+abbr v 'vim -p'
+abbr vim 'vim -p'
 
 abbr c 'clear'
 
