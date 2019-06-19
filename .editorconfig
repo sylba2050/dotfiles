@@ -18,7 +18,7 @@ trim_trailing_whitespace = false
 [*.go]
 indent_style = tab
 
-[*.{js,less,coffee,html}]
+[*.{js,less,coffee,html,vue}]
 indent_size = 2
 
 [{*.yml,*.yaml}]
