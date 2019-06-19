@@ -9,4 +9,5 @@ ln -s ~/dotfiles/pycodestyle ~/.config/pycodestyle
 ln -s ~/dotfiles/config.fish ~/.config/fish/config.fish
 ln -s ~/dotfiles/.editorconfig ~/.editorconfig
 ln -s ~/dotfiles/efm-config.yaml ~/.config/efm-langserver/config.yaml
+ln -s ~/dotfiles/.gitconfig ~/.gitconfig
 ```
