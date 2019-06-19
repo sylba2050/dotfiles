@@ -1,0 +1,9 @@
+[user]
+	name = Masataka Hisasue
+	email = masataka.hisasue@optim.co.jp
+[core]
+	editor = vim
+	pager = less
+	quotepath = false
+[color]
+	ui = true
