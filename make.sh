@@ -15,3 +15,5 @@ ln -s ~/dotfiles/.editorconfig ~/.editorconfig
 
 mkdir -p ~/.config/efm-langserver/
 ln -s ~/dotfiles/efm-config.yaml ~/.config/efm-langserver/config.yaml
+
+ln -s ~/dotfiles/.gitconfig ~/.gitconfig
