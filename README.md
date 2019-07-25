@@ -10,5 +10,5 @@ ln -s ~/dotfiles/config.fish ~/.config/fish/config.fish
 ln -s ~/dotfiles/.editorconfig ~/.editorconfig
 ln -s ~/dotfiles/efm-config.yaml ~/.config/efm-langserver/config.yaml
 ln -s ~/dotfiles/.gitconfig ~/.gitconfig
-ln -s ~/dotfiles/init.vim  ~/.config/nvim/init.vim
+ln -s ~/dotfiles/style  ~/.config/yapf/style
 ```
