@@ -11,4 +11,5 @@ ln -s ~/dotfiles/.editorconfig ~/.editorconfig
 ln -s ~/dotfiles/efm-config.yaml ~/.config/efm-langserver/config.yaml
 ln -s ~/dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/dotfiles/style  ~/.config/yapf/style
+cp -r finger ~/.config/libskk/rules/
 ```
