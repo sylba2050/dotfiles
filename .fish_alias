@@ -18,7 +18,7 @@ abbr gpull 'git pull'
 abbr gc 'git commit'
 abbr gche 'git checkout'
 
-abbr vimrc 'vim ~/.vimrc'
+abbr vimrc 'nvim ~/.vimrc'
 
 abbr sa 'sudo apt'
 
@@ -30,8 +30,8 @@ abbr mvf 'mv'
 abbr rmf 'rm'
 
 abbr t 'tmux attach'
-abbr v 'vim -p'
-abbr vim 'vim -p'
+abbr v 'nvim -p'
+abbr vim 'nvim -p'
 
 abbr c 'clear'
 
